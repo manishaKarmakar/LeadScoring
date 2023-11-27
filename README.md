@@ -16,8 +16,8 @@ Steps
 - Precision- Recall
 Details of files given
 - Lead Score Case Study : The python file showing coding and data analysis
-- Assignment Subjective Questions.pdf : Some subjective questions answered
+- Assignment Subjective Questions.pdf : Answered subjective questions 
 - Lead Score Case Study.pdf : Final Presentation
-- Leads.csv : Data worked on
+- Leads.csv : Data source
 - Leads Data Dictionary.xlsx : Data Dictionary
 - Summary.pdf : Summary of Python file
